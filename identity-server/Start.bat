@@ -1,1 +1,2 @@
-start dotnet run
+cd identity-server
+dotnet run

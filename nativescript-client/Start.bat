@@ -1,1 +1,2 @@
-start tns run Android
+cd nativescript-client
+tns run Android
