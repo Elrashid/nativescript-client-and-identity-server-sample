@@ -39,29 +39,15 @@ We will make a clone the sample project
 On the CMD Window write
 
     git clone https://github.com/Elrashid/nativescript-client-and-identity-server-sample.git
+    
+    cd nativescript-client-and-identity-server-sample
 
-## Step 04
+## Step 05
 
-cd nativescript-client-and-identity-server-sample
+Now will run the apps
+  
+On the CMD Window write
 
-run identity-server
+    Start.bat
+  
 
- sta  cd /identity-server && dotnet run
-
-## step 2
-
-run nativescript-client
-
-   cd /nativescript-client && tns run Android
-   
-## step 1 
-
-run identity-server
-
-   cd /identity-server && dotnet run
-
-## step 2
-
-run nativescript-client
-
-   cd /nativescript-client && tns run Android
